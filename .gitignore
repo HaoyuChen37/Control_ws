@@ -1,0 +1,20 @@
+# 忽略编译生成的目录
+build/
+devel/
+install/
+Data/
+
+# 忽略日志文件
+.log/
+
+# 忽略临时文件
+*.tmp
+
+# 忽略Eclipse相关文件（如果使用Eclipse）
+.cproject
+.project
+.pydevproject
+cmake_install.cmake
+
+# 忽略CMake生成的文件
+CMakeLists.txt.user

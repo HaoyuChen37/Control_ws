@@ -1,0 +1,4 @@
+Log file created at: 2025/02/11 09:34:20
+Running on machine: chenhaoyu
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0211 09:34:20.259573 32988 MVCameraBase.cpp:99] Device:(name:SUM134GM-B#0 sn:044150222056)Lost
