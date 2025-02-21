@@ -2,6 +2,7 @@
 build/
 devel/
 install/
+Camera/
 Data/
 
 # 忽略日志文件
